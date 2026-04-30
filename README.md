@@ -1,4 +1,4 @@
-# Introduction to Deep Learning
+# Introduction to Deep Learning (on HPC)
 > A comprehensive introduction to deep learning — from neural network fundamentals to advanced architectures including CNNs, RNNs, Transformers, and multi-GPU training.
 
 [![Course](https://img.shields.io/badge/Course-Nov%202025-blue)](https://events.asc.ac.at/event/207/)
